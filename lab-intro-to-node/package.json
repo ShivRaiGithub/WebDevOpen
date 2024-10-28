@@ -1,0 +1,16 @@
+{
+  "name": "lab-intro-node",
+  "version": "2.0.0",
+  "description": "Intro Node Lab for Students",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/root-labs/lab-intro-to-node#readme",
+  "keywords": [
+    "node",
+    "intro"
+  ],
+  "author": "supoort@rootlearn.com",
+  "license": "MIT"
+}
